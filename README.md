@@ -20,5 +20,3 @@
 返回数据：json list,顺序对应请求的list顺序，包含`label`、`scores`字段
 
 训练数据集来源：[https://github.com/SophonPlus/ChineseNlpCorpus/blob/master/datasets/weibo_senti_100k/intro.ipynb](https://github.com/SophonPlus/ChineseNlpCorpus/blob/master/datasets/weibo_senti_100k/intro.ipynb)
-
-将数据5:3:2拆分为train、valid、test，test集上效果：`F1=0.9755794284298703`
